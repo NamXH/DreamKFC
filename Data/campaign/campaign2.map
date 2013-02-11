@@ -1,0 +1,119 @@
+### Dong thu 1 gom 1 so int la Time
+### Dong thu 2 gom 1 so int la Require
+### Dong thu 3 gom 1 so int la Theme
+### Cac dong tiep theo la cac o cua map voi y nghia nhu vi du sau
+### 1 1 C 3 - o 1 1 la Conveyer co Direction la 3
+### 2 2 A 1 2 3 - o 2 2 la Arrow co cac chieu 1 2 3 duoc mo
+### 3 3 T 2 - o 3 3 la Target co Direction la 2
+200 Time
+7 Require
+1 Theme
+7 1 C 2
+7 2 C 2
+7 3 C 2
+7 4 C 2
+10 5 C 1
+8 5 C 1
+11 4 C 4
+13 3 C 1
+12 3 C 1
+14 4 C 2
+16 7 C 2
+15 8 C 3
+14 8 C 3
+13 8 C 3
+11 8 C 3
+10 8 C 3
+8 8 C 3
+6 8 C 3
+5 8 C 3
+4 9 C 2
+9 11 C 2
+11 12 C 1
+10 12 C 1
+12 13 C 2
+11 15 C 3
+10 15 C 3
+9 15 C 3
+6 15 C 2
+6 16 C 2
+13 17 C 1
+12 17 C 1
+11 17 C 1
+10 17 C 1
+9 17 C 1
+8 17 C 1
+7 17 C 1
+14 12 C 4
+14 13 C 4
+14 16 C 4
+12 9 C 4
+9 6 C 2
+9 7 C 2
+7 9 C 4
+13 5 C 3
+12 5 C 3
+8 12 C 3
+7 13 C 2
+13 14 C 1
+11 10 C 1
+10 10 C 1
+8 10 C 1
+6 10 C 1
+5 11 C 2
+5 12 C 2
+4 13 C 3
+15 15 C 1
+17 6 C 1
+15 6 C 1
+7 5 C 1
+11 5 C 4
+11 3 C 1
+14 3 C 2
+14 6 C 1
+16 6 A 1 2 
+16 6 C 1
+16 8 C 3
+4 8 C 2
+4 10 C 1
+9 10 A 1 2 
+9 10 C 1
+9 12 A 1 3 
+9 12 C 3
+12 12 C 2
+12 15 C 3
+8 15 C 4
+8 14 C 3
+6 14 C 2
+6 17 C 1
+14 17 C 4
+14 11 C 3
+13 11 C 4
+13 10 C 3
+12 8 C 3
+12 10 C 4
+9 5 A 1 2 
+9 5 C 2
+9 8 C 3
+7 8 C 3
+7 10 A 1 4 
+7 10 C 4
+14 5 A 2 3 
+14 5 C 3
+7 14 C 3
+7 12 C 2
+12 14 A 1 2 
+12 14 C 1
+14 14 C 4
+5 10 A 1 2 
+5 10 C 2
+5 13 C 3
+14 15 A 1 4 
+14 15 C 1
+18 6 C 4
+3 13 T 1
+3 13 C 1
+16 15 T 3
+16 15 C 3
+18 5 T 2
+18 5 C 2

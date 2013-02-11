@@ -1,0 +1,57 @@
+### Dong thu 1 gom 1 so int la Time
+### Dong thu 2 gom 1 so int la Require
+### Dong thu 3 gom 1 so int la Theme
+### Cac dong tiep theo la cac o cua map voi y nghia nhu vi du sau
+### 1 1 C 3 - o 1 1 la Conveyer co Direction la 3
+### 2 2 A 1 2 3 - o 2 2 la Arrow co cac chieu 1 2 3 duoc mo
+### 3 3 T 2 - o 3 3 la Target co Direction la 2
+100 Time
+3 Require
+2 Theme
+20 12 C 3
+19 12 C 3
+18 12 C 3
+17 12 C 3
+16 12 C 3
+15 12 C 3
+14 12 C 3
+12 12 C 3
+11 12 C 3
+10 12 C 3
+9 12 C 3
+8 12 C 3
+7 12 C 3
+6 5 C 4
+6 6 C 4
+6 8 C 4
+6 9 C 4
+6 10 C 4
+6 11 C 4
+16 7 C 1
+15 7 C 1
+14 7 C 1
+12 7 C 1
+11 7 C 1
+10 7 C 1
+9 7 C 1
+8 7 C 1
+7 7 C 1
+13 5 C 4
+13 6 C 4
+13 8 C 4
+13 9 C 4
+13 10 C 4
+13 11 C 4
+6 12 C 4
+6 7 A 1 4 
+6 7 C 1
+13 12 A 3 4 
+13 12 C 4
+13 7 A 1 4 
+13 7 C 4
+6 4 T 2
+6 4 C 2
+17 7 T 3
+17 7 C 3
+13 4 T 2
+13 4 C 2
